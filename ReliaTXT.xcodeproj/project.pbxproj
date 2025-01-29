@@ -1,0 +1,580 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		D4E70DB12D49D6B300CFDD66 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D4E70D912D49D6B200CFDD66 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D4E70D982D49D6B200CFDD66;
+			remoteInfo = ReliaTXT;
+		};
+		D4E70DBB2D49D6B300CFDD66 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D4E70D912D49D6B200CFDD66 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D4E70D982D49D6B200CFDD66;
+			remoteInfo = ReliaTXT;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		D4E70D992D49D6B200CFDD66 /* ReliaTXT.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ReliaTXT.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D4E70DB02D49D6B300CFDD66 /* ReliaTXTTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ReliaTXTTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D4E70DBA2D49D6B300CFDD66 /* ReliaTXTUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ReliaTXTUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		D4E70DC22D49D6B300CFDD66 /* Exceptions for "ReliaTXT" folder in "ReliaTXT" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = D4E70D982D49D6B200CFDD66 /* ReliaTXT */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		D4E70D9B2D49D6B200CFDD66 /* ReliaTXT */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				D4E70DC22D49D6B300CFDD66 /* Exceptions for "ReliaTXT" folder in "ReliaTXT" target */,
+			);
+			path = ReliaTXT;
+			sourceTree = "<group>";
+		};
+		D4E70DB32D49D6B300CFDD66 /* ReliaTXTTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = ReliaTXTTests;
+			sourceTree = "<group>";
+		};
+		D4E70DBD2D49D6B300CFDD66 /* ReliaTXTUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = ReliaTXTUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D4E70D962D49D6B200CFDD66 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D4E70DAD2D49D6B300CFDD66 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D4E70DB72D49D6B300CFDD66 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D4E70D902D49D6B200CFDD66 = {
+			isa = PBXGroup;
+			children = (
+				D4E70D9B2D49D6B200CFDD66 /* ReliaTXT */,
+				D4E70DB32D49D6B300CFDD66 /* ReliaTXTTests */,
+				D4E70DBD2D49D6B300CFDD66 /* ReliaTXTUITests */,
+				D4E70D9A2D49D6B200CFDD66 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		D4E70D9A2D49D6B200CFDD66 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D4E70D992D49D6B200CFDD66 /* ReliaTXT.app */,
+				D4E70DB02D49D6B300CFDD66 /* ReliaTXTTests.xctest */,
+				D4E70DBA2D49D6B300CFDD66 /* ReliaTXTUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		D4E70D982D49D6B200CFDD66 /* ReliaTXT */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D4E70DC32D49D6B300CFDD66 /* Build configuration list for PBXNativeTarget "ReliaTXT" */;
+			buildPhases = (
+				D4E70D952D49D6B200CFDD66 /* Sources */,
+				D4E70D962D49D6B200CFDD66 /* Frameworks */,
+				D4E70D972D49D6B200CFDD66 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				D4E70D9B2D49D6B200CFDD66 /* ReliaTXT */,
+			);
+			name = ReliaTXT;
+			packageProductDependencies = (
+			);
+			productName = ReliaTXT;
+			productReference = D4E70D992D49D6B200CFDD66 /* ReliaTXT.app */;
+			productType = "com.apple.product-type.application";
+		};
+		D4E70DAF2D49D6B300CFDD66 /* ReliaTXTTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D4E70DC82D49D6B300CFDD66 /* Build configuration list for PBXNativeTarget "ReliaTXTTests" */;
+			buildPhases = (
+				D4E70DAC2D49D6B300CFDD66 /* Sources */,
+				D4E70DAD2D49D6B300CFDD66 /* Frameworks */,
+				D4E70DAE2D49D6B300CFDD66 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D4E70DB22D49D6B300CFDD66 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				D4E70DB32D49D6B300CFDD66 /* ReliaTXTTests */,
+			);
+			name = ReliaTXTTests;
+			packageProductDependencies = (
+			);
+			productName = ReliaTXTTests;
+			productReference = D4E70DB02D49D6B300CFDD66 /* ReliaTXTTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		D4E70DB92D49D6B300CFDD66 /* ReliaTXTUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D4E70DCB2D49D6B300CFDD66 /* Build configuration list for PBXNativeTarget "ReliaTXTUITests" */;
+			buildPhases = (
+				D4E70DB62D49D6B300CFDD66 /* Sources */,
+				D4E70DB72D49D6B300CFDD66 /* Frameworks */,
+				D4E70DB82D49D6B300CFDD66 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D4E70DBC2D49D6B300CFDD66 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				D4E70DBD2D49D6B300CFDD66 /* ReliaTXTUITests */,
+			);
+			name = ReliaTXTUITests;
+			packageProductDependencies = (
+			);
+			productName = ReliaTXTUITests;
+			productReference = D4E70DBA2D49D6B300CFDD66 /* ReliaTXTUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D4E70D912D49D6B200CFDD66 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1610;
+				LastUpgradeCheck = 1610;
+				TargetAttributes = {
+					D4E70D982D49D6B200CFDD66 = {
+						CreatedOnToolsVersion = 16.1;
+					};
+					D4E70DAF2D49D6B300CFDD66 = {
+						CreatedOnToolsVersion = 16.1;
+						TestTargetID = D4E70D982D49D6B200CFDD66;
+					};
+					D4E70DB92D49D6B300CFDD66 = {
+						CreatedOnToolsVersion = 16.1;
+						TestTargetID = D4E70D982D49D6B200CFDD66;
+					};
+				};
+			};
+			buildConfigurationList = D4E70D942D49D6B200CFDD66 /* Build configuration list for PBXProject "ReliaTXT" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = D4E70D902D49D6B200CFDD66;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = D4E70D9A2D49D6B200CFDD66 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D4E70D982D49D6B200CFDD66 /* ReliaTXT */,
+				D4E70DAF2D49D6B300CFDD66 /* ReliaTXTTests */,
+				D4E70DB92D49D6B300CFDD66 /* ReliaTXTUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		D4E70D972D49D6B200CFDD66 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D4E70DAE2D49D6B300CFDD66 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D4E70DB82D49D6B300CFDD66 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D4E70D952D49D6B200CFDD66 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D4E70DAC2D49D6B300CFDD66 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D4E70DB62D49D6B300CFDD66 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		D4E70DB22D49D6B300CFDD66 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D4E70D982D49D6B200CFDD66 /* ReliaTXT */;
+			targetProxy = D4E70DB12D49D6B300CFDD66 /* PBXContainerItemProxy */;
+		};
+		D4E70DBC2D49D6B300CFDD66 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D4E70D982D49D6B200CFDD66 /* ReliaTXT */;
+			targetProxy = D4E70DBB2D49D6B300CFDD66 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		D4E70DC42D49D6B300CFDD66 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = ReliaTXT/ReliaTXT.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"ReliaTXT/Preview Content\"";
+				DEVELOPMENT_TEAM = LG3CGTMSAM;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = ReliaTXT/Info.plist;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.RRL.ReliaTXT;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		D4E70DC52D49D6B300CFDD66 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = ReliaTXT/ReliaTXT.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"ReliaTXT/Preview Content\"";
+				DEVELOPMENT_TEAM = LG3CGTMSAM;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = ReliaTXT/Info.plist;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.RRL.ReliaTXT;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		D4E70DC62D49D6B300CFDD66 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		D4E70DC72D49D6B300CFDD66 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		D4E70DC92D49D6B300CFDD66 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LG3CGTMSAM;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.RRL.ReliaTXTTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ReliaTXT.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ReliaTXT";
+			};
+			name = Debug;
+		};
+		D4E70DCA2D49D6B300CFDD66 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LG3CGTMSAM;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.RRL.ReliaTXTTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ReliaTXT.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ReliaTXT";
+			};
+			name = Release;
+		};
+		D4E70DCC2D49D6B300CFDD66 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LG3CGTMSAM;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.RRL.ReliaTXTUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = ReliaTXT;
+			};
+			name = Debug;
+		};
+		D4E70DCD2D49D6B300CFDD66 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LG3CGTMSAM;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.RRL.ReliaTXTUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = ReliaTXT;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D4E70D942D49D6B200CFDD66 /* Build configuration list for PBXProject "ReliaTXT" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D4E70DC62D49D6B300CFDD66 /* Debug */,
+				D4E70DC72D49D6B300CFDD66 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D4E70DC32D49D6B300CFDD66 /* Build configuration list for PBXNativeTarget "ReliaTXT" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D4E70DC42D49D6B300CFDD66 /* Debug */,
+				D4E70DC52D49D6B300CFDD66 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D4E70DC82D49D6B300CFDD66 /* Build configuration list for PBXNativeTarget "ReliaTXTTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D4E70DC92D49D6B300CFDD66 /* Debug */,
+				D4E70DCA2D49D6B300CFDD66 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D4E70DCB2D49D6B300CFDD66 /* Build configuration list for PBXNativeTarget "ReliaTXTUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D4E70DCC2D49D6B300CFDD66 /* Debug */,
+				D4E70DCD2D49D6B300CFDD66 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D4E70D912D49D6B200CFDD66 /* Project object */;
+}
