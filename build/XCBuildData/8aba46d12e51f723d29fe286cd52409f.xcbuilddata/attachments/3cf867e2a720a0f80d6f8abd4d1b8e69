@@ -1,0 +1,4 @@
+module FirebaseAuthInterop {
+umbrella "/Users/johnithanfoster/Library/Developer/Xcode/DerivedData/ReliaTXT-hhduzgsxjjlfgzbhlefgmnbupybk/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAuth/Interop/Public"
+export *
+}

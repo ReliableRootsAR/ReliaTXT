@@ -1,0 +1,35 @@
+{
+  "" : {
+    "const-values" : "/Users/johnithanfoster/Library/Developer/Xcode/DerivedData/ReliaTXT-hhduzgsxjjlfgzbhlefgmnbupybk/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/FirebaseDatabase-master.swiftconstvalues",
+    "dependencies" : "/Users/johnithanfoster/Library/Developer/Xcode/DerivedData/ReliaTXT-hhduzgsxjjlfgzbhlefgmnbupybk/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/FirebaseDatabase-master.d",
+    "diagnostics" : "/Users/johnithanfoster/Library/Developer/Xcode/DerivedData/ReliaTXT-hhduzgsxjjlfgzbhlefgmnbupybk/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/FirebaseDatabase-master.dia",
+    "emit-module-dependencies" : "/Users/johnithanfoster/Library/Developer/Xcode/DerivedData/ReliaTXT-hhduzgsxjjlfgzbhlefgmnbupybk/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/FirebaseDatabase-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/johnithanfoster/Library/Developer/Xcode/DerivedData/ReliaTXT-hhduzgsxjjlfgzbhlefgmnbupybk/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/FirebaseDatabase-master-emit-module.dia",
+    "swift-dependencies" : "/Users/johnithanfoster/Library/Developer/Xcode/DerivedData/ReliaTXT-hhduzgsxjjlfgzbhlefgmnbupybk/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/FirebaseDatabase-master.swiftdeps"
+  },
+  "/Users/johnithanfoster/Library/Developer/Xcode/DerivedData/ReliaTXT-hhduzgsxjjlfgzbhlefgmnbupybk/SourcePackages/checkouts/firebase-ios-sdk/FirebaseDatabase/Swift/Sources/Codable/DataSnapshot+ReadDecodable.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/DataSnapshot+ReadDecodable.o",
+    "llvm-bc" : "/Users/johnithanfoster/Library/Developer/Xcode/DerivedData/ReliaTXT-hhduzgsxjjlfgzbhlefgmnbupybk/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/DataSnapshot+ReadDecodable.bc",
+    "object" : "/Users/johnithanfoster/Library/Developer/Xcode/DerivedData/ReliaTXT-hhduzgsxjjlfgzbhlefgmnbupybk/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/DataSnapshot+ReadDecodable.o"
+  },
+  "/Users/johnithanfoster/Library/Developer/Xcode/DerivedData/ReliaTXT-hhduzgsxjjlfgzbhlefgmnbupybk/SourcePackages/checkouts/firebase-ios-sdk/FirebaseDatabase/Swift/Sources/Codable/DatabaseReference+WriteEncodable.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/DatabaseReference+WriteEncodable.o",
+    "llvm-bc" : "/Users/johnithanfoster/Library/Developer/Xcode/DerivedData/ReliaTXT-hhduzgsxjjlfgzbhlefgmnbupybk/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/DatabaseReference+WriteEncodable.bc",
+    "object" : "/Users/johnithanfoster/Library/Developer/Xcode/DerivedData/ReliaTXT-hhduzgsxjjlfgzbhlefgmnbupybk/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/DatabaseReference+WriteEncodable.o"
+  },
+  "/Users/johnithanfoster/Library/Developer/Xcode/DerivedData/ReliaTXT-hhduzgsxjjlfgzbhlefgmnbupybk/SourcePackages/checkouts/firebase-ios-sdk/FirebaseDatabase/Swift/Sources/Codable/EncoderDecoder.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/EncoderDecoder.o",
+    "llvm-bc" : "/Users/johnithanfoster/Library/Developer/Xcode/DerivedData/ReliaTXT-hhduzgsxjjlfgzbhlefgmnbupybk/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/EncoderDecoder.bc",
+    "object" : "/Users/johnithanfoster/Library/Developer/Xcode/DerivedData/ReliaTXT-hhduzgsxjjlfgzbhlefgmnbupybk/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/EncoderDecoder.o"
+  },
+  "/Users/johnithanfoster/Library/Developer/Xcode/DerivedData/ReliaTXT-hhduzgsxjjlfgzbhlefgmnbupybk/SourcePackages/checkouts/firebase-ios-sdk/FirebaseDatabase/Swift/Sources/Codable/ServerTimestamp.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/ServerTimestamp.o",
+    "llvm-bc" : "/Users/johnithanfoster/Library/Developer/Xcode/DerivedData/ReliaTXT-hhduzgsxjjlfgzbhlefgmnbupybk/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/ServerTimestamp.bc",
+    "object" : "/Users/johnithanfoster/Library/Developer/Xcode/DerivedData/ReliaTXT-hhduzgsxjjlfgzbhlefgmnbupybk/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/ServerTimestamp.o"
+  },
+  "/Users/johnithanfoster/Library/Developer/Xcode/DerivedData/ReliaTXT-hhduzgsxjjlfgzbhlefgmnbupybk/SourcePackages/checkouts/firebase-ios-sdk/FirebaseDatabase/Swift/Sources/SPMSwiftHeaderWorkaround.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/SPMSwiftHeaderWorkaround.o",
+    "llvm-bc" : "/Users/johnithanfoster/Library/Developer/Xcode/DerivedData/ReliaTXT-hhduzgsxjjlfgzbhlefgmnbupybk/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/SPMSwiftHeaderWorkaround.bc",
+    "object" : "/Users/johnithanfoster/Library/Developer/Xcode/DerivedData/ReliaTXT-hhduzgsxjjlfgzbhlefgmnbupybk/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/SPMSwiftHeaderWorkaround.o"
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "" : {
+    "const-values" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/ReliaTXT-master.swiftconstvalues",
+    "dependencies" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/ReliaTXT-master.d",
+    "diagnostics" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/ReliaTXT-master.dia",
+    "emit-module-dependencies" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/ReliaTXT-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/ReliaTXT-master-emit-module.dia",
+    "swift-dependencies" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/ReliaTXT-master.swiftdeps"
+  },
+  "/Users/johnithanfoster/Desktop/ReliaTXT/AppDelegate.swift" : {
+    "index-unit-output-path" : "/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/AppDelegate.o"
+  },
+  "/Users/johnithanfoster/Desktop/ReliaTXT/ReliaTXT/ContentView.swift" : {
+    "index-unit-output-path" : "/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/ContentView.o"
+  },
+  "/Users/johnithanfoster/Desktop/ReliaTXT/ReliaTXT/Persistence.swift" : {
+    "index-unit-output-path" : "/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/Persistence.o",
+    "llvm-bc" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/Persistence.bc",
+    "object" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/Persistence.o"
+  },
+  "/Users/johnithanfoster/Desktop/ReliaTXT/ReliaTXTApp.swift" : {
+    "index-unit-output-path" : "/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/ReliaTXTApp.o",
+    "llvm-bc" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/ReliaTXTApp.bc",
+    "object" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/ReliaTXTApp.o"
+  },
+  "/Users/johnithanfoster/Desktop/ReliaTXT/Sources/ReliaTXT/Models/AuthViewModel.swift" : {
+    "index-unit-output-path" : "/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/AuthViewModel.o",
+    "llvm-bc" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/AuthViewModel.bc",
+    "object" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/AuthViewModel.o"
+  },
+  "/Users/johnithanfoster/Desktop/ReliaTXT/Sources/ReliaTXT/Models/ChatViewModel.swift" : {
+    "index-unit-output-path" : "/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/ChatViewModel.o",
+    "llvm-bc" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/ChatViewModel.bc",
+    "object" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/ChatViewModel.o"
+  },
+  "/Users/johnithanfoster/Desktop/ReliaTXT/Sources/ReliaTXT/Models/Message.swift" : {
+    "index-unit-output-path" : "/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/Message.o",
+    "llvm-bc" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/Message.bc",
+    "object" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/Message.o"
+  },
+  "/Users/johnithanfoster/Desktop/ReliaTXT/Sources/ReliaTXT/Models/SheetModels.swift" : {
+    "index-unit-output-path" : "/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/SheetModels.o",
+    "llvm-bc" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/SheetModels.bc",
+    "object" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/SheetModels.o"
+  },
+  "/Users/johnithanfoster/Desktop/ReliaTXT/Sources/ReliaTXT/Models/Ticket.swift" : {
+    "index-unit-output-path" : "/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/Ticket.o",
+    "llvm-bc" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/Ticket.bc",
+    "object" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/Ticket.o"
+  },
+  "/Users/johnithanfoster/Desktop/ReliaTXT/Sources/ReliaTXT/Models/User.swift" : {
+    "index-unit-output-path" : "/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/User.o",
+    "llvm-bc" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/User.bc",
+    "object" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/User.o"
+  },
+  "/Users/johnithanfoster/Desktop/ReliaTXT/Sources/ReliaTXT/Services/FirebaseService.swift" : {
+    "index-unit-output-path" : "/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/FirebaseService.o",
+    "llvm-bc" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/FirebaseService.bc",
+    "object" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/FirebaseService.o"
+  },
+  "/Users/johnithanfoster/Desktop/ReliaTXT/Sources/ReliaTXT/Services/NotificationService.swift" : {
+    "index-unit-output-path" : "/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/NotificationService.o",
+    "llvm-bc" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/NotificationService.bc",
+    "object" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/NotificationService.o"
+  },
+  "/Users/johnithanfoster/Desktop/ReliaTXT/Sources/ReliaTXT/Utilities/Extensions.swift" : {
+    "index-unit-output-path" : "/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/Extensions.o",
+    "llvm-bc" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/Extensions.bc",
+    "object" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/Extensions.o"
+  },
+  "/Users/johnithanfoster/Desktop/ReliaTXT/Sources/ReliaTXT/ViewModels/TicketViewModel.swift" : {
+    "index-unit-output-path" : "/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/TicketViewModel.o",
+    "llvm-bc" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/TicketViewModel.bc",
+    "object" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/TicketViewModel.o"
+  },
+  "/Users/johnithanfoster/Desktop/ReliaTXT/Sources/ReliaTXT/Views/ChatView.swift" : {
+    "index-unit-output-path" : "/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/ChatView.o",
+    "llvm-bc" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/ChatView.bc",
+    "object" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/ChatView.o"
+  },
+  "/Users/johnithanfoster/Desktop/ReliaTXT/Sources/ReliaTXT/Views/CompleteProfileView.swift" : {
+    "index-unit-output-path" : "/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/CompleteProfileView.o",
+    "llvm-bc" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/CompleteProfileView.bc",
+    "object" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/CompleteProfileView.o"
+  },
+  "/Users/johnithanfoster/Desktop/ReliaTXT/Sources/ReliaTXT/Views/LoginView.swift" : {
+    "index-unit-output-path" : "/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/LoginView.o",
+    "llvm-bc" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/LoginView.bc",
+    "object" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/LoginView.o"
+  },
+  "/Users/johnithanfoster/Desktop/ReliaTXT/Sources/ReliaTXT/Views/MainTabView.swift" : {
+    "index-unit-output-path" : "/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/MainTabView.o",
+    "llvm-bc" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/MainTabView.bc",
+    "object" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/MainTabView.o"
+  },
+  "/Users/johnithanfoster/Desktop/ReliaTXT/Sources/ReliaTXT/Views/MessageBubbleView.swift" : {
+    "index-unit-output-path" : "/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/MessageBubbleView.o",
+    "llvm-bc" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/MessageBubbleView.bc",
+    "object" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/MessageBubbleView.o"
+  },
+  "/Users/johnithanfoster/Desktop/ReliaTXT/Sources/ReliaTXT/Views/ProfileView.swift" : {
+    "index-unit-output-path" : "/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/ProfileView.o",
+    "llvm-bc" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/ProfileView.bc",
+    "object" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/ProfileView.o"
+  },
+  "/Users/johnithanfoster/Desktop/ReliaTXT/Sources/ReliaTXT/Views/SignUpView.swift" : {
+    "index-unit-output-path" : "/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/SignUpView.o",
+    "llvm-bc" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/SignUpView.bc",
+    "object" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/SignUpView.o"
+  },
+  "/Users/johnithanfoster/Desktop/ReliaTXT/Sources/ReliaTXT/Views/TicketListView.swift" : {
+    "index-unit-output-path" : "/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/TicketListView.o",
+    "llvm-bc" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/TicketListView.bc",
+    "object" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/TicketListView.o"
+  },
+  "/Users/johnithanfoster/Desktop/ReliaTXT/Sources/ReliaTXT/Views/TicketRowView.swift" : {
+    "index-unit-output-path" : "/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/TicketRowView.o",
+    "llvm-bc" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/TicketRowView.bc",
+    "object" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/TicketRowView.o"
+  },
+  "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/DerivedSources/CoreDataGenerated/ReliaTXT/Item+CoreDataClass.swift" : {
+    "index-unit-output-path" : "/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/Item+CoreDataClass.o",
+    "llvm-bc" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/Item+CoreDataClass.bc",
+    "object" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/Item+CoreDataClass.o"
+  },
+  "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/DerivedSources/CoreDataGenerated/ReliaTXT/Item+CoreDataProperties.swift" : {
+    "index-unit-output-path" : "/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/Item+CoreDataProperties.o",
+    "llvm-bc" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/Item+CoreDataProperties.bc",
+    "object" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/Item+CoreDataProperties.o"
+  },
+  "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/DerivedSources/CoreDataGenerated/ReliaTXT/ReliaTXT+CoreDataModel.swift" : {
+    "index-unit-output-path" : "/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/ReliaTXT+CoreDataModel.o",
+    "llvm-bc" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/ReliaTXT+CoreDataModel.bc",
+    "object" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/ReliaTXT+CoreDataModel.o"
+  },
+  "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/johnithanfoster/Desktop/ReliaTXT/build/ReliaTXT.build/Release-iphoneos/ReliaTXT.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  }
+}

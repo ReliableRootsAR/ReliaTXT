@@ -1,0 +1,4 @@
+module grpcWrapper {
+umbrella "/Users/johnithanfoster/Library/Developer/Xcode/DerivedData/ReliaTXT-hhduzgsxjjlfgzbhlefgmnbupybk/SourcePackages/checkouts/grpc-binary/grpc-Wrapper/include"
+export *
+}

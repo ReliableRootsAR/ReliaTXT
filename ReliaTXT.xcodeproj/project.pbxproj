@@ -6,6 +6,19 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		D4E70DD02D49D77600CFDD66 /* FirebaseAnalytics in Frameworks */ = {isa = PBXBuildFile; productRef = D4E70DCF2D49D77600CFDD66 /* FirebaseAnalytics */; };
+		D4E70DD22D49D77600CFDD66 /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = D4E70DD12D49D77600CFDD66 /* FirebaseAuth */; };
+		D4E70DD42D49D77600CFDD66 /* FirebaseDatabase in Frameworks */ = {isa = PBXBuildFile; productRef = D4E70DD32D49D77600CFDD66 /* FirebaseDatabase */; };
+		D4E70DD62D49D77600CFDD66 /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = D4E70DD52D49D77600CFDD66 /* FirebaseFirestore */; };
+		D4E70DD82D49D77600CFDD66 /* FirebaseMessaging in Frameworks */ = {isa = PBXBuildFile; productRef = D4E70DD72D49D77600CFDD66 /* FirebaseMessaging */; };
+		D4E70DDA2D49D77600CFDD66 /* FirebaseStorage in Frameworks */ = {isa = PBXBuildFile; productRef = D4E70DD92D49D77600CFDD66 /* FirebaseStorage */; };
+		D4E70E042D49DC5900CFDD66 /* ReliaTXTApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4E70E032D49DC5200CFDD66 /* ReliaTXTApp.swift */; };
+		D4E70E092D49DD4400CFDD66 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4E70E082D49DD3B00CFDD66 /* AppDelegate.swift */; };
+		D4E70E4C2D49E38A00CFDD66 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = D4E70E4B2D49E38A00CFDD66 /* GoogleService-Info.plist */; };
+		D4E70FFE2D4BA91100CFDD66 /* SDWebImageSwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = D4E70FFD2D4BA91100CFDD66 /* SDWebImageSwiftUI */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		D4E70DB12D49D6B300CFDD66 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +40,10 @@
 		D4E70D992D49D6B200CFDD66 /* ReliaTXT.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ReliaTXT.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4E70DB02D49D6B300CFDD66 /* ReliaTXTTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ReliaTXTTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4E70DBA2D49D6B300CFDD66 /* ReliaTXTUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ReliaTXTUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D4E70E032D49DC5200CFDD66 /* ReliaTXTApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReliaTXTApp.swift; sourceTree = "<group>"; };
+		D4E70E082D49DD3B00CFDD66 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		D4E70E0A2D49DDCB00CFDD66 /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
+		D4E70E4B2D49E38A00CFDD66 /* GoogleService-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -34,6 +51,7 @@
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
+				ReliaTXTApp.swift,
 			);
 			target = D4E70D982D49D6B200CFDD66 /* ReliaTXT */;
 		};
@@ -58,6 +76,11 @@
 			path = ReliaTXTUITests;
 			sourceTree = "<group>";
 		};
+		D4E70DDB2D49D91F00CFDD66 /* Sources */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Sources;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +88,13 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D4E70FFE2D4BA91100CFDD66 /* SDWebImageSwiftUI in Frameworks */,
+				D4E70DD42D49D77600CFDD66 /* FirebaseDatabase in Frameworks */,
+				D4E70DD62D49D77600CFDD66 /* FirebaseFirestore in Frameworks */,
+				D4E70DD82D49D77600CFDD66 /* FirebaseMessaging in Frameworks */,
+				D4E70DD02D49D77600CFDD66 /* FirebaseAnalytics in Frameworks */,
+				D4E70DD22D49D77600CFDD66 /* FirebaseAuth in Frameworks */,
+				D4E70DDA2D49D77600CFDD66 /* FirebaseStorage in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -88,10 +118,15 @@
 		D4E70D902D49D6B200CFDD66 = {
 			isa = PBXGroup;
 			children = (
+				D4E70E0A2D49DDCB00CFDD66 /* Package.swift */,
+				D4E70E082D49DD3B00CFDD66 /* AppDelegate.swift */,
+				D4E70E032D49DC5200CFDD66 /* ReliaTXTApp.swift */,
+				D4E70DDB2D49D91F00CFDD66 /* Sources */,
 				D4E70D9B2D49D6B200CFDD66 /* ReliaTXT */,
 				D4E70DB32D49D6B300CFDD66 /* ReliaTXTTests */,
 				D4E70DBD2D49D6B300CFDD66 /* ReliaTXTUITests */,
 				D4E70D9A2D49D6B200CFDD66 /* Products */,
+				D4E70E4B2D49E38A00CFDD66 /* GoogleService-Info.plist */,
 			);
 			sourceTree = "<group>";
 		};
@@ -122,9 +157,17 @@
 			);
 			fileSystemSynchronizedGroups = (
 				D4E70D9B2D49D6B200CFDD66 /* ReliaTXT */,
+				D4E70DDB2D49D91F00CFDD66 /* Sources */,
 			);
 			name = ReliaTXT;
 			packageProductDependencies = (
+				D4E70DCF2D49D77600CFDD66 /* FirebaseAnalytics */,
+				D4E70DD12D49D77600CFDD66 /* FirebaseAuth */,
+				D4E70DD32D49D77600CFDD66 /* FirebaseDatabase */,
+				D4E70DD52D49D77600CFDD66 /* FirebaseFirestore */,
+				D4E70DD72D49D77600CFDD66 /* FirebaseMessaging */,
+				D4E70DD92D49D77600CFDD66 /* FirebaseStorage */,
+				D4E70FFD2D4BA91100CFDD66 /* SDWebImageSwiftUI */,
 			);
 			productName = ReliaTXT;
 			productReference = D4E70D992D49D6B200CFDD66 /* ReliaTXT.app */;
@@ -208,6 +251,10 @@
 			);
 			mainGroup = D4E70D902D49D6B200CFDD66;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				D4E70DCE2D49D77600CFDD66 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+				D4E70FFC2D4BA91100CFDD66 /* XCRemoteSwiftPackageReference "SDWebImageSwiftUI" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = D4E70D9A2D49D6B200CFDD66 /* Products */;
 			projectDirPath = "";
@@ -225,6 +272,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D4E70E4C2D49E38A00CFDD66 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -249,6 +297,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D4E70E042D49DC5900CFDD66 /* ReliaTXTApp.swift in Sources */,
+				D4E70E092D49DD4400CFDD66 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -290,7 +340,7 @@
 				CODE_SIGN_ENTITLEMENTS = ReliaTXT/ReliaTXT.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"ReliaTXT/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "";
 				DEVELOPMENT_TEAM = LG3CGTMSAM;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -321,7 +371,7 @@
 				CODE_SIGN_ENTITLEMENTS = ReliaTXT/ReliaTXT.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"ReliaTXT/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "";
 				DEVELOPMENT_TEAM = LG3CGTMSAM;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -575,6 +625,63 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		D4E70DCE2D49D77600CFDD66 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 11.7.0;
+			};
+		};
+		D4E70FFC2D4BA91100CFDD66 /* XCRemoteSwiftPackageReference "SDWebImageSwiftUI" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SDWebImage/SDWebImageSwiftUI.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 3.1.3;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		D4E70DCF2D49D77600CFDD66 /* FirebaseAnalytics */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = D4E70DCE2D49D77600CFDD66 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAnalytics;
+		};
+		D4E70DD12D49D77600CFDD66 /* FirebaseAuth */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = D4E70DCE2D49D77600CFDD66 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAuth;
+		};
+		D4E70DD32D49D77600CFDD66 /* FirebaseDatabase */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = D4E70DCE2D49D77600CFDD66 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseDatabase;
+		};
+		D4E70DD52D49D77600CFDD66 /* FirebaseFirestore */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = D4E70DCE2D49D77600CFDD66 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseFirestore;
+		};
+		D4E70DD72D49D77600CFDD66 /* FirebaseMessaging */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = D4E70DCE2D49D77600CFDD66 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseMessaging;
+		};
+		D4E70DD92D49D77600CFDD66 /* FirebaseStorage */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = D4E70DCE2D49D77600CFDD66 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseStorage;
+		};
+		D4E70FFD2D4BA91100CFDD66 /* SDWebImageSwiftUI */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = D4E70FFC2D4BA91100CFDD66 /* XCRemoteSwiftPackageReference "SDWebImageSwiftUI" */;
+			productName = SDWebImageSwiftUI;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = D4E70D912D49D6B200CFDD66 /* Project object */;
 }
